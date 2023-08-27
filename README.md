@@ -1,4 +1,4 @@
-### Hi there 👋
+I am deeply passionate about mobile development and Python, and I invite you to explore my collection of projects. Here, you'll find a diverse range of repositories that showcase my dedication to these fields.
 
 <!--
 **Ann-Okoyo/Ann-Okoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
