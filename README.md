@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ann Muyale</h1>
-<h3 align="center">A passionate Android developer from Kenya</h3>
+<h3 align="center">A passionate Software developer from Kenya</h3>
 
 <p align="left">
 
